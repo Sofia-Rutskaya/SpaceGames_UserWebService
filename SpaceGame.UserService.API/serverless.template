@@ -28,11 +28,11 @@
         ],
         "Environment": {
           "Variables": {
-            "BucketName": "tic-tac-toe-2022",
-            "UserPoolClientId": "46136djk9oa511sivjm3qk51f8",
-            "UserPoolClientSecret": "mtingjajbhgagsb92ha640fr463240d402e016lsb42q10alf4a",
-            "UserPoolId": "eu-west-1_Te8mWZUdB",
-            "Region": "eu-west-1",
+            "BucketName": "",
+            "UserPoolClientId": "",
+            "UserPoolClientSecret": "",
+            "UserPoolId": "",
+            "Region": "",
             "ASPNETCORE_ENVIRONMENT": "Development"
           }
         },
